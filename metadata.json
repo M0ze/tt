@@ -1,0 +1,8 @@
+{
+  "name": "Copy of UgandaTikTrend",
+  "description": "A premium SaaS platform for Ugandan TikTok creators to discover viral trends, generate AI-powered video ideas, and monetize their content with East African insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
